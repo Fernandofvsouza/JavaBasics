@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaBasics.iml" filepath="$PROJECT_DIR$/.idea/JavaBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaTime/JavaTimePratica/JavaTimePratica.iml" filepath="$PROJECT_DIR$/JavaTime/JavaTimePratica/JavaTimePratica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaTime/JavaTimeTeorico/JavaTimeTeorico.iml" filepath="$PROJECT_DIR$/JavaTime/JavaTimeTeorico/JavaTimeTeorico.iml" />
+    </modules>
+  </component>
+</project>
