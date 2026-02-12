@@ -1,0 +1,21 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+build/
+
+# IDEs
+/.idea/
+/*.iml
+.vscode/
+
+# macOS
+.DS_Store
+
+# logs
+*.log
+
+# libs (se não desejar versionar jars locais)
+lib/*.jar
