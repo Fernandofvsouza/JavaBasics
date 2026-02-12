@@ -41,7 +41,7 @@ public class Exercicio3 {
         LocalDateTime fim = hoje.atTime(17, 0);
         String intervaloFormatado = String.format("Intervalo: " +  inicio.format(formatoBrasileiroCompleto) + " - " + fim.format(formatoBrasileiroCompleto));
         System.out.println(intervaloFormatado);
-        
+
 
     }
 }
