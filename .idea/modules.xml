@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaBasics.iml" filepath="$PROJECT_DIR$/.idea/JavaBasics.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaTime/JavaTimePratica/JavaTimePratica.iml" filepath="$PROJECT_DIR$/JavaTime/JavaTimePratica/JavaTimePratica.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaTime/JavaTimeTeorico/JavaTimeTeorico.iml" filepath="$PROJECT_DIR$/JavaTime/JavaTimeTeorico/JavaTimeTeorico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaTime/JavaTimePratica/SistemaAgendamento.java/SistemaAgendamento.java.iml" filepath="$PROJECT_DIR$/JavaTime/JavaTimePratica/SistemaAgendamento.java/SistemaAgendamento.java.iml" />
     </modules>
   </component>
 </project>
