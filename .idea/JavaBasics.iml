@@ -6,6 +6,8 @@
       <sourceFolder url="file://$MODULE_DIR$/JavaLoops/WhilePratico" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JavaLoops/WhileTeorico" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JavaLoops/WhileTeorico/WhileTeorico" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaLoops/DoWhilePratico" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaLoops/DoWhileTeorico" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
