@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/JavaLoops/ForTeorico" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JavaLoops/Break&amp;ContinuePratica" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JavaLoops/Break&amp;ContinueTeorico" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Desafios/Desafio01-SistemaNotasAlunos" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
