@@ -13,6 +13,11 @@
       <sourceFolder url="file://$MODULE_DIR$/JavaLoops/Break&amp;ContinuePratica" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JavaLoops/Break&amp;ContinueTeorico" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Desafios/Desafio01-SistemaNotasAlunos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EstruturasSequenciais/1-Variaveis" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EstruturasSequenciais/2-TiposPrimitivos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercicios/1-Maior&amp;Menor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercicios/2-InverterArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercicios/3-BuscarNumero" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
