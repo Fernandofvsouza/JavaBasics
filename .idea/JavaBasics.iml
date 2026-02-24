@@ -22,6 +22,7 @@
       <sourceFolder url="file://$MODULE_DIR$/EstruturasSequenciais/4-String" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/EstruturasSequenciais/5-EntradaESaídaDeDados" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exercicios/4-AdvinhandoNumero" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercicios/5-Palindromo" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
