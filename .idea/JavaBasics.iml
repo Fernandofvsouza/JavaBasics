@@ -18,6 +18,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Exercicios/1-Maior&amp;Menor" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exercicios/2-InverterArray" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exercicios/3-BuscarNumero" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EstruturasSequenciais/3-OperadoresAritmeticos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EstruturasSequenciais/4-String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EstruturasSequenciais/5-EntradaESaídaDeDados" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
