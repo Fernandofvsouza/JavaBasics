@@ -23,6 +23,11 @@
       <sourceFolder url="file://$MODULE_DIR$/EstruturasSequenciais/5-EntradaESaídaDeDados" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exercicios/4-AdvinhandoNumero" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exercicios/5-Palindromo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EstruturasCondicionais/1-ExpressoesComparativas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EstruturasCondicionais/2-OperadoresLogicos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EstruturasCondicionais/3-IfElse" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EstruturasCondicionais/4-ExpressaoCondiconalTernaria" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercicios/6-MaioresMenores" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
