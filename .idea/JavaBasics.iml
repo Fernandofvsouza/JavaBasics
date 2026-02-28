@@ -29,6 +29,8 @@
       <sourceFolder url="file://$MODULE_DIR$/EstruturasCondicionais/4-ExpressaoCondiconalTernaria" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exercicios/6-MaioresMenores" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Desafios/Desafio02-SistemaRestaurante" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EstruturasCondicionais/5-SwitchCase" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaN-IO/1-Java-IO" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
