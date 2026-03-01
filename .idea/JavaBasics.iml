@@ -31,6 +31,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Desafios/Desafio02-SistemaRestaurante" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/EstruturasCondicionais/5-SwitchCase" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JavaN-IO/1-Java-IO" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Orientação a objetos/POO-PRATICA/1-CriandoClasses&amp;Objetos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Orientação a objetos/POO-TEORIA/1-OqueéUmObjeto" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Orientação a objetos/POO-TEORIA/2-VisibilidadeEmUmObjeto" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
