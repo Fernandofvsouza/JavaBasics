@@ -34,6 +34,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Orientação a objetos/POO-PRATICA/1-CriandoClasses&amp;Objetos" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Orientação a objetos/POO-TEORIA/1-OqueéUmObjeto" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Orientação a objetos/POO-TEORIA/2-VisibilidadeEmUmObjeto" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaN-IO/2-Java-N-io" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaN-IO/3-Layouts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaN-IO/Exercicios/Desafio01" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
