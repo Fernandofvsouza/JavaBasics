@@ -37,6 +37,7 @@
       <sourceFolder url="file://$MODULE_DIR$/JavaN-IO/2-Java-N-io" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JavaN-IO/3-Layouts" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JavaN-IO/Exercicios/Desafio01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Orientação a objetos/POO-PRATICA/2-MudandoAvisibilidade" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

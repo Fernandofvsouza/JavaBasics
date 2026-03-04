@@ -1,8 +1,8 @@
 public class CriandoClassesEObjetos {
     static void main(String[] args) {
-        Caneta c1 = new Caneta();
+        Esferografica c1 = new Esferografica();
         c1.cor = "Azul";
-        c1.ponta = 0.5f;
+        c1.getPonta();
         c1.tampada = false;
         c1.modelo = "Bic Cristal";
         c1.destampar();
@@ -10,9 +10,9 @@ public class CriandoClassesEObjetos {
         c1.rabiscar();
 
 
-        Caneta c2 = new Caneta();
+        Esferografica c2 = new Esferografica();
         c2.cor = "Vermelha";
-        c2.ponta = 1.0f;
+        c2.getPonta();
         c2.tampada = true;
         c2.modelo = "Bic Cristal";
         c2.status();
