@@ -38,6 +38,11 @@
       <sourceFolder url="file://$MODULE_DIR$/JavaN-IO/3-Layouts" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JavaN-IO/Exercicios/Desafio01" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Orientação a objetos/POO-PRATICA/2-MudandoAvisibilidade" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Desafios/Desafio03-SistemaAcademia" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Orientação a objetos/POO-PRATICA/3-MetodosEspeciais/3A-Caneta" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Orientação a objetos/POO-PRATICA/3-MetodosEspeciais/3B-Oculos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Orientação a objetos/POO-PRATICA/3-MetodosEspeciais/3C-Cachorro" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Orientação a objetos/POO-TEORIA/3-MetodosEspeciais" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
