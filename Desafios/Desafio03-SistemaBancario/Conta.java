@@ -1,12 +1,22 @@
 public class Conta {
     private String nomeTitular;
+    private long cpf;
     private long numeroConta;
     private double saldo;
 
-    public Conta(String nomeTitular, long numeroConta, double saldo) {
+    public Conta(String nomeTitular, long cpf,  long numeroConta, double saldo) {
         this.nomeTitular = nomeTitular;
+        this.cpf = cpf;
         this.numeroConta = numeroConta;
         this.saldo = saldo;
+    }
+
+    public long getCpf() {
+        return cpf;
+    }
+
+    public void setCpf(long cpf) {
+        this.cpf = cpf;
     }
 
     public double getSaldo() {
