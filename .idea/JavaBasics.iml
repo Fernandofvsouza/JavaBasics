@@ -45,7 +45,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Orientação a objetos/POO-TEORIA/3-MetodosEspeciais" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Desafios/Desafio03-SistemaBancario" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exceções/Exceções-Pratica" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Exceções/Exceções-Teoria" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exceções/Exceções-Teoria/Exceções-Pratica01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exceções/Exceções-Teoria/Exceções-Pratica02" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
