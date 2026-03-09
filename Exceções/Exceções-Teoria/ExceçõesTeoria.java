@@ -15,8 +15,8 @@
 * do try e catch, onde o try é a parte do codigo onde pode ocorrer a exceção e o catch é a parte onde o tratamento da exceção acontece
 * e o finally é a parte onde o codigo é executado independente de ter ocorrido ou nao a exceção
 *
-* Se o metodo que voce esta lançando extends Exception, voce tem que tratar a exceção, ou seja, usar o try catch ou lançar a exceção para o metodo que chamou, usando o throws
-*
+* RunTimeException é uma exceção que não precisa ser tratada, ou seja, não precisa usar o try catch ou lançar a exceção para o metodo que chamou, usando o throws
+* Exception é uma exceção que precisa ser tratada, ou seja, precisa usar o try catch ou lançar a exceção para o metodo que chamou, usando o throws
 * */
 
 
