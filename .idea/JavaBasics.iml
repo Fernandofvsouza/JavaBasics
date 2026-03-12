@@ -52,6 +52,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Exceções/Exceções-Teoria/Exceções-Pratica02" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Orientação a objetos/POO-TEORIA/4-Encapsulamento" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Orientação a objetos/POO-PRATICA/4 - Encapsulamento" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exceções/Exceções-Pratica/Exceções-Pratica03-TratamentoDeExceçoes" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
