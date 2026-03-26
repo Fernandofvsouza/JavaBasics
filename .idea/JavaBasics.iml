@@ -55,6 +55,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Exceções/Exceções-Pratica/Exceções-Pratica03-TratamentoDeExceçoes" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Expressões/ExpressõesSimplesPratica" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Expressões/ExercicioExpressoesCupom" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Orientação a objetos/POO-PRATICA/Relacionamento entre classes" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

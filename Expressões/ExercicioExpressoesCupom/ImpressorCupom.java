@@ -5,6 +5,8 @@ public class ImpressorCupom {
         String nome = String.format("%-30s", cupom.nomeFantasia);
         conteudo.append(cupom.nomeFantasia + "\n");
         Endereco end = cupom.endereco;
+        String endereco = String.format("%s, %s, %s, %s - %s/%s", end.logradouro, end.numero, end.complemento, end.bairro, end.cidade, end.uf);
+        
 
 
 
