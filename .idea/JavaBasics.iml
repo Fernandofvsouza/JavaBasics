@@ -57,6 +57,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Expressões/ExercicioExpressoesCupom" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Orientação a objetos/POO-PRATICA/Relacionamento entre classes" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JavaCollections/Arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaCollections/Conjuntos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaCollections/Listas" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
