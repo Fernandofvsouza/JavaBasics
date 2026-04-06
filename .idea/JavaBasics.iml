@@ -59,6 +59,8 @@
       <sourceFolder url="file://$MODULE_DIR$/JavaCollections/Arrays" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JavaCollections/Conjuntos" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JavaCollections/Listas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaCollections/Generics" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaCollections/Mapas" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
